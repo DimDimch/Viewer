@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1230757842 source:g:\viewer32\main.c
+	"menu.h"
+	"view.h"
+	"model.h"
+	"textPainting.h"
+	"components.h"
+	"scroll.h"
+
+1637374062 g:\viewer32\menu.h
+	<windows.h>
+
+1637374980 g:\viewer32\view.h
+	"components.h"
+
+1637405372 g:\viewer32\components.h
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+
+1637374728 g:\viewer32\model.h
+	"components.h"
+
+1637374687 g:\viewer32\textpainting.h
+	"components.h"
+
+1637374911 g:\viewer32\scroll.h
+	"components.h"
+
+1637373722 source:g:\viewer32\menu.c
+	"menu.h"
+	<commdlg.h>
+	<stdlib.h>
+	<stdio.h>
+
+1634289626 source:g:\viewer32\menu.rc
+	"menu.h"
+
+1637373481 source:g:\viewer32\model.c
+	"model.h"
+
+1637373498 source:g:\viewer32\scroll.c
+	"scroll.h"
+
+1637373515 source:g:\viewer32\textpainting.c
+	"textPainting.h"
+
+1637373548 source:g:\viewer32\view.c
+	"view.h"
+
+1637409937 source:c:\users\user_phmf6\desktop\viewer32\main.c
+	"menu.h"
+	"view.h"
+	"model.h"
+	"textPainting.h"
+	"components.h"
+	"scroll.h"
+
+1637409165 c:\users\user_phmf6\desktop\viewer32\menu.h
+	<windows.h>
+
+1637409676 c:\users\user_phmf6\desktop\viewer32\view.h
+	"components.h"
+
+1637411127 c:\users\user_phmf6\desktop\viewer32\components.h
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<locale.h>
+
+1637409276 c:\users\user_phmf6\desktop\viewer32\model.h
+	"components.h"
+
+1637409537 c:\users\user_phmf6\desktop\viewer32\textpainting.h
+	"components.h"
+
+1637409496 c:\users\user_phmf6\desktop\viewer32\scroll.h
+	"components.h"
+
+1637409188 source:c:\users\user_phmf6\desktop\viewer32\menu.c
+	"menu.h"
+	<commdlg.h>
+	<stdlib.h>
+	<stdio.h>
+
+1634289626 source:c:\users\user_phmf6\desktop\viewer32\menu.rc
+	"menu.h"
+
+1637409396 source:c:\users\user_phmf6\desktop\viewer32\model.c
+	"model.h"
+
+1637409505 source:c:\users\user_phmf6\desktop\viewer32\scroll.c
+	"scroll.h"
+
+1637409632 source:c:\users\user_phmf6\desktop\viewer32\textpainting.c
+	"textPainting.h"
+
+1637409744 source:c:\users\user_phmf6\desktop\viewer32\view.c
+	"view.h"
+
